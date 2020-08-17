@@ -1,0 +1,13 @@
+*.tmp
+*.bak
+#.ld
+*.o
+*.su
+*.launch
+.metadata
+.mxproject
+.metadata
+#.settings/
+#.cproject
+#.project
+Debug/
